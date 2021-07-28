@@ -1,0 +1,7 @@
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.vbproj.AssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.ControleForm.resources
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.Resources.resources
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.vbproj.GenerateResource.cache
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.AssemblyInfo.vb
+C:\Users\Escolar Manager\Desktop\teste projeto\aplicaçãõTeste\aplicaçãõTeste\obj\Debug\netcoreapp3.1\aplicaçãõTeste.vbproj.CoreCompileInputs.cache

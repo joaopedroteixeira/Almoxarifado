@@ -1,0 +1,13 @@
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\bin\Debug\netcoreapp3.1\Almoxarifado.exe
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\bin\Debug\netcoreapp3.1\Almoxarifado.deps.json
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\bin\Debug\netcoreapp3.1\Almoxarifado.runtimeconfig.json
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\bin\Debug\netcoreapp3.1\Almoxarifado.runtimeconfig.dev.json
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\bin\Debug\netcoreapp3.1\Almoxarifado.dll
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\bin\Debug\netcoreapp3.1\Almoxarifado.pdb
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.csproj.AssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.AssemblyInfoInputs.cache
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.AssemblyInfo.cs
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.dll
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.pdb
+C:\Users\Escolar Manager\Desktop\AlmoxarifadoProjeto\Almoxarifado\Almoxarifado\obj\Debug\netcoreapp3.1\Almoxarifado.genruntimeconfig.cache
